@@ -1,0 +1,23 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesnight1994/literate-octo-meme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesnight1994/literate-octo-meme/issues"
+  },
+  "homepage": "https://github.com/jamesnight1994/literate-octo-meme#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
